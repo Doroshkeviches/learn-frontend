@@ -2,7 +2,7 @@
 
 ## 🎯 Цели
 
-В этом модуле студенты должны:
+В этом модуле вы должны:
 
 - 🧠 **Понимать** профессию JS/Front-end разработчика и меняющиеся требования, включая обязательное знание TypeScript.
 - 🛠️ **Изучить** языки, технологии и инструменты, используемые разработчиками JS/Front-end, уделяя особое внимание базовым знаниям NodeJS и облачным сервисам.
@@ -15,12 +15,11 @@
 
 ## 🕒 Время завершения модуля
 
-- Примерное время: **4 часа**
+- Примерное время: **3 часа**
 
 ## 📖 Теория
 
-- [Webinar](https://www.youtube.com/watch?v=A6-omh-SVug)
-- 📘 **Reading Material:** [Recommendations for learning English [RU]](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
+- [Презентация](https://doroshkeviches.github.io/learn-frontend/Step-1/presentation/)
 
 ## 💡 Основные знания для фронтенд-разработчиков
 
@@ -42,8 +41,3 @@
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 - [TypeScript Roadmap](https://roadmap.sh/typescript)
 - [React Roadmap](https://roadmap.sh/react)
-- [Angular Roadmap](https://roadmap.sh/angular)
-- [NodeJS Roadmap](https://roadmap.sh/nodejs)
-- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
-- [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
-- [Career Guidance [RU]](https://www.youtube.com/watch?v=pQ0hr5U8RL0) - 1.5 hours
