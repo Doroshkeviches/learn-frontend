@@ -19,7 +19,8 @@
 ## 📖 Теория
 
 1. [Internet and Browsers](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-2. Terminal:
+2. Полезные [расширения](https://habr.com/ru/companies/kts/articles/779670/) для VSCode можно посмотреть 
+3. Terminal:
    - [Basic Windows Commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
    - [Basic Mac Commands](https://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start)
 
