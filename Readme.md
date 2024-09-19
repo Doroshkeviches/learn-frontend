@@ -4,3 +4,8 @@
 - [Урок 4 - Основы HTML](./step-4)
 - [Урок 5 - Основы CSS](./step-5)
 - [Урок 6 - Основы JavaScript](./step-6)
+- [Урок 7 - ES6](./step-7)
+- [Урок 8 - Scope and Functions](./step-8)
+- [Урок 9 - Grid](./step-9)
+- [Урок 10 - Sass](./step-10)
+  

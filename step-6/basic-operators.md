@@ -1,4 +1,4 @@
-# Этап №5. Основы JavaScript: Basics operators, mathematics
+# Этап №6. Основы JavaScript: Basics operators, mathematics
 
 ## 💡 Основные знания 
 
