@@ -1,4 +1,4 @@
-# Этап №3 Introduction to the Git version control system and the GitHub web service
+# Этап №3 Введение в Git
 
 ## 🌐  Цели этого модуля:
 
