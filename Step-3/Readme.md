@@ -1,6 +1,6 @@
 # Этап №3 Introduction to the Git version control system and the GitHub web service
 
-## What should be done:
+## 🌐  Цели этого модуля:
 
 1. Получите базовое представление о системе контроля версий Git.
 2. Начните работать с Git с помощью веб-сервиса GitHub.
@@ -12,23 +12,23 @@
 5. Познакомьтесь с концепцией 'branch' в Git: create, merge, rebase
 6. Познакомьтесь с основами Markdown
 
-## Примерное время обучения
+## 🕒 Время завершения модуля
 
 Theory: 3 hours  
 Practice: 4 hours
 
-## Теория
+## 📖 Теория
 
 1. Вам следует прочитать и запомнить [commits requirements] TODO ADD Commit Requirements 
 2. Посмотреть видеоматериалы [Git/GitHub theory](https://www.youtube.com/watch?v=zZBiln_2FhM) (1-2 hour) 
 3. Изучите [Markdown's documentation](https://guides.github.com/features/mastering-markdown/)
 
-## Практика
+## 💻  Практика
 
 1. Pass the test "Git Test [RU]" in the RS APP > Auto Test
 2. Игра для практики с Git [Игра](https://learngitbranching.js.org)
 
-## Дополнительные источники
+## 📘 Дополнительные ресурсы
 
 1. [Git Basics. Handbook](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 2. [RU] Good [docs-styled book](https://uleming.github.io/gitbook/index.html) from a Git-community
