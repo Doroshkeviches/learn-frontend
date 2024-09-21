@@ -8,4 +8,16 @@
 - [Урок 8 - Scope and Functions](./step-8)
 - [Урок 9 - Grid](./step-9)
 - [Урок 10 - Sass](./step-10)
+- [Урок 11 - Figma](./step-11)
+- [Урок 12 - Responsive Web Design](./step-12)
+- [Урок 13 - Media Queries](./step-13)
+- [Урок 14 - HTML Forms & Validation](./step-14)
+- [Урок 15 - Практика верстки](./step-15)
+- [Урок 16 - DOM Api](./step-16)
+- [Урок 17 - Events](./step-17)
+- [Урок 18 - Chrome DevTools](./step-18)
+- [Урок 19 - Algorithms and Data Structures](./step-19)
+- [Урок 20 - Modules in JavaScript](./step-20)
+- [Урок 21 - Clean Code](./step-21)
+
   
