@@ -10,22 +10,18 @@
    - Staging Area
 4. Изучите основные команды (clone, add, commit, push, pull, checkout)
 5. Познакомьтесь с концепцией 'branch' в Git: create, merge, rebase
-6. Познакомьтесь с основами Markdown
 
 ## 🕒 Время завершения модуля
 
-Theory: 3 hours  
-Practice: 4 hours
+3 часа  
 
 ## 📖 Теория
 
 1. Вам следует прочитать и запомнить [commits requirements] TODO ADD Commit Requirements 
 2. Посмотреть видеоматериалы [Git/GitHub theory](https://www.youtube.com/watch?v=zZBiln_2FhM) (1-2 hour) 
-3. Изучите [Markdown's documentation](https://guides.github.com/features/mastering-markdown/)
 
 ## 💻  Практика
 
-1. Pass the test "Git Test [RU]" in the RS APP > Auto Test
 2. Игра для практики с Git [Игра](https://learngitbranching.js.org)
 
 ## 📘 Дополнительные ресурсы

@@ -19,7 +19,7 @@
 
 ## 📖 Теория
 
-- [Презентация](https://doroshkeviches.github.io/learn-frontend/Step-1/presentation/)
+- [Презентация](https://doroshkeviches.github.io/learn-frontend/step-1/presentation/)
 
 ## 💡 Основные знания для фронтенд-разработчиков
 

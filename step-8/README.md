@@ -9,8 +9,6 @@
 
 Scope
 
-
-
 - Прочитайте про [область видимости переменных, замыкание](https://learn.javascript.ru/closure)
 - Прочитайте про [Scope: Global and Local Scope, Nested Scope](https://www.freecodecamp.org/news/scope-and-closures-in-javascript/)
 - Прочитайте про [Hoisting](https://developer.mozilla.org/ru/docs/Glossary/Hoisting)
@@ -23,7 +21,7 @@ Scope
 
 ## 🕒 Время завершения модуля
 
-- 10 hours
+- 6 часов
 
 ## 📘 Дополнительные ресурсы
 

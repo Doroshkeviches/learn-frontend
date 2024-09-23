@@ -10,7 +10,7 @@
   - Массивы
     - Прочитайте статью [остаточные параметры и оператор расширения](https://learn.javascript.ru/rest-parameters-spread-operator)
     - Прочитайте статью про [деструктурирующее присваивание](https://learn.javascript.ru/destructuring-assignment)
-    - Прочитайте [Searching arrays with the .includes function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+    - Прочитайте про [Array.prototype.includes()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
   - Objects
     - Прочитайте [Creating objects with the spread operator](https://www.javascripttutorial.net/es-next/javascript-object-spread/)
   - Complex Types of ES2015
