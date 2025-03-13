@@ -2,7 +2,7 @@
 - [Intern Frontend (React) roadmap](./frontend-roadmap-intern)
 
 ## Статьи по библиотеке React
-- [React](./React)
+- [React](./react)
 
 
   
